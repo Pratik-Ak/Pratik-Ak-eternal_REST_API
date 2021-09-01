@@ -1,0 +1,26 @@
+{
+  "name": "authmodel",
+  "version": "1.0.0",
+  "description": "Authentication model demo project is created for learnning purpose...",
+  "main": "app.js",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.0",
+    "crypto-js": "^4.1.1",
+    "dotenv": "^10.0.0",
+    "epxress": "^0.0.1-security",
+    "express": "^4.17.1",
+    "joi": "^17.4.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^4.1.0",
+    "mongoose": "^5.13.7",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "author": "Eternal Web PVT LTD",
+  "license": "ISC"
+}
